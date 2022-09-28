@@ -51,18 +51,6 @@ body {
                 background-color: white;
                 clip-path: inset(12px round 6px);
             }
-
-            & #space-bar {
-                width: 15rem;
-                height: 52px;
-                background-color: white;
-                border: solid 4px black;
-                font-size: 2rem;
-                border-radius: 6px;
-                font-weight: bold;
-                text-align: center;
-                line-height: 52px;
-            }
         }
 
         & .f11 {
